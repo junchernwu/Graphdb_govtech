@@ -1,0 +1,19 @@
+﻿Entity UEN,Shareholder UEN
+en1,sh1
+en10,sh10
+en2,sh2
+en3,sh3
+en4,sh4
+en5,sh5
+en5,sh2
+en6,sh6
+en6,sh3
+en7,sh7
+en7,sh4
+en8,sh8
+en9,sh9
+sh1,en1
+sh2,en2
+sh3,sh4
+sh5,sh6
+sh6,en5
