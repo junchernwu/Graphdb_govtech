@@ -1,2 +1,1 @@
-#Creating a graphdatabase using python
-Graph database to discover relationships with companies' entities
+Creating a Graph database with GUI to discover relationships among companies' entities.
